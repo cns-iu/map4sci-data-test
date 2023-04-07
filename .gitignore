@@ -102,7 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
-/new-project-template-DELG/raw-data
-/new-project-template-DELG/site
-/new-project-template-CG/raw-data
-/new-project-template-CG/site
+
+# Derived data
+raw-data
+site
