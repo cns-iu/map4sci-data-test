@@ -12,5 +12,7 @@
 , {"id": "net_mega_20210321-is_metric-CG", "name": "net_mega_20210321-is_metric-CG", "dir": "assets/datasets/net_mega_20210321-is_metric-CG"}
 , {"id": "net_mega_20210321-is_metric-DELG", "name": "net_mega_20210321-is_metric-DELG", "dir": "assets/datasets/net_mega_20210321-is_metric-DELG"}
 , {"id": "net_mega_20210321-is_original-CG", "name": "net_mega_20210321-is_original-CG", "dir": "assets/datasets/net_mega_20210321-is_original-CG"}
+, {"id": "net_mega_20210321-is_original-DELG", "name": "net_mega_20210321-is_original-DELG", "dir": "assets/datasets/net_mega_20210321-is_original-DELG"}
 , {"id": "net_mega_20210321-is_ultrametric-CG", "name": "net_mega_20210321-is_ultrametric-CG", "dir": "assets/datasets/net_mega_20210321-is_ultrametric-CG"}
+, {"id": "net_mega_20210321-is_ultrametric-DELG", "name": "net_mega_20210321-is_ultrametric-DELG", "dir": "assets/datasets/net_mega_20210321-is_ultrametric-DELG"}
 ]
