@@ -1,0 +1,16 @@
+[
+  {"id": "google-topics-full-CG", "name": "google-topics-full-CG", "dir": "assets/datasets/google-topics-full-CG"}
+, {"id": "google-topics-full-DELG", "name": "google-topics-full-DELG", "dir": "assets/datasets/google-topics-full-DELG"}
+, {"id": "lastfm-CG", "name": "lastfm-CG", "dir": "assets/datasets/lastfm-CG"}
+, {"id": "lastfm-DELG", "name": "lastfm-DELG", "dir": "assets/datasets/lastfm-DELG"}
+, {"id": "net_efwebsite_forums_20210321-is_metric-CG", "name": "net_efwebsite_forums_20210321-is_metric-CG", "dir": "assets/datasets/net_efwebsite_forums_20210321-is_metric-CG"}
+, {"id": "net_efwebsite_forums_20210321-is_metric-DELG", "name": "net_efwebsite_forums_20210321-is_metric-DELG", "dir": "assets/datasets/net_efwebsite_forums_20210321-is_metric-DELG"}
+, {"id": "net_efwebsite_forums_20210321-is_original-CG", "name": "net_efwebsite_forums_20210321-is_original-CG", "dir": "assets/datasets/net_efwebsite_forums_20210321-is_original-CG"}
+, {"id": "net_efwebsite_forums_20210321-is_original-DELG", "name": "net_efwebsite_forums_20210321-is_original-DELG", "dir": "assets/datasets/net_efwebsite_forums_20210321-is_original-DELG"}
+, {"id": "net_efwebsite_forums_20210321-is_ultrametric-CG", "name": "net_efwebsite_forums_20210321-is_ultrametric-CG", "dir": "assets/datasets/net_efwebsite_forums_20210321-is_ultrametric-CG"}
+, {"id": "net_efwebsite_forums_20210321-is_ultrametric-DELG", "name": "net_efwebsite_forums_20210321-is_ultrametric-DELG", "dir": "assets/datasets/net_efwebsite_forums_20210321-is_ultrametric-DELG"}
+, {"id": "net_mega_20210321-is_metric-CG", "name": "net_mega_20210321-is_metric-CG", "dir": "assets/datasets/net_mega_20210321-is_metric-CG"}
+, {"id": "net_mega_20210321-is_metric-DELG", "name": "net_mega_20210321-is_metric-DELG", "dir": "assets/datasets/net_mega_20210321-is_metric-DELG"}
+, {"id": "net_mega_20210321-is_original-CG", "name": "net_mega_20210321-is_original-CG", "dir": "assets/datasets/net_mega_20210321-is_original-CG"}
+, {"id": "net_mega_20210321-is_ultrametric-CG", "name": "net_mega_20210321-is_ultrametric-CG", "dir": "assets/datasets/net_mega_20210321-is_ultrametric-CG"}
+]
