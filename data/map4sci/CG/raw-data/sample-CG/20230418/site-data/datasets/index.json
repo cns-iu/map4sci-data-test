@@ -1,0 +1,5 @@
+[
+  {"id": "google-topics-full-CG", "name": "google-topics-full-CG", "dir": "assets/datasets/google-topics-full-CG"}
+, {"id": "lastfm-CG", "name": "lastfm-CG", "dir": "assets/datasets/lastfm-CG"}
+, {"id": "sample-CG", "name": "sample-CG", "dir": "assets/datasets/sample-CG"}
+]

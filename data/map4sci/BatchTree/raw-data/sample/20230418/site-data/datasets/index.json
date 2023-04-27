@@ -1,0 +1,5 @@
+[
+  {"id": "google-topics-full", "name": "google-topics-full", "dir": "assets/datasets/google-topics-full"}
+, {"id": "lastfm", "name": "lastfm", "dir": "assets/datasets/lastfm"}
+, {"id": "sample", "name": "sample", "dir": "assets/datasets/sample"}
+]

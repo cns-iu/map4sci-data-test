@@ -1,0 +1,5 @@
+[
+  {"id": "google-topics-full-DELG", "name": "google-topics-full-DELG", "dir": "assets/datasets/google-topics-full-DELG"}
+, {"id": "lastfm-DELG", "name": "lastfm-DELG", "dir": "assets/datasets/lastfm-DELG"}
+, {"id": "sample-DELG", "name": "sample-DELG", "dir": "assets/datasets/sample-DELG"}
+]
