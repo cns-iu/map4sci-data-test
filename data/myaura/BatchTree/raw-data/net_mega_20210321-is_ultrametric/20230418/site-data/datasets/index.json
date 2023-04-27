@@ -1,0 +1,8 @@
+[
+  {"id": "net_efwebsite_forums_20210321-is_metric", "name": "net_efwebsite_forums_20210321-is_metric", "dir": "assets/datasets/net_efwebsite_forums_20210321-is_metric"}
+, {"id": "net_efwebsite_forums_20210321-is_original", "name": "net_efwebsite_forums_20210321-is_original", "dir": "assets/datasets/net_efwebsite_forums_20210321-is_original"}
+, {"id": "net_efwebsite_forums_20210321-is_ultrametric", "name": "net_efwebsite_forums_20210321-is_ultrametric", "dir": "assets/datasets/net_efwebsite_forums_20210321-is_ultrametric"}
+, {"id": "net_mega_20210321-is_metric", "name": "net_mega_20210321-is_metric", "dir": "assets/datasets/net_mega_20210321-is_metric"}
+, {"id": "net_mega_20210321-is_original", "name": "net_mega_20210321-is_original", "dir": "assets/datasets/net_mega_20210321-is_original"}
+, {"id": "net_mega_20210321-is_ultrametric", "name": "net_mega_20210321-is_ultrametric", "dir": "assets/datasets/net_mega_20210321-is_ultrametric"}
+]

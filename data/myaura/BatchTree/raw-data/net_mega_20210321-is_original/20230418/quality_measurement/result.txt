@@ -1,0 +1,2 @@
+filename&crossings&uniformity\_edge\_length&stress&neighbors\_preservation&boundingbox\_ratio\_to\_labels&labels\_total\_area&bounding\_box\\ \hline 
+layer7&0&0.567&5330850.045&0.19&0.00E+00&0&(919607.433, 589707.214)&\\ \hline 
